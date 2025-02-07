@@ -1,7 +1,7 @@
 ### Word Composition Problem Using Trie (Java Implementation)
 
 # Problem Statement
-The problem statement is available in the [Exercise Fresher Word Problem](https://github.com/your-username/Longest-Compound-word-25/blob/main/Exercise_Fresher_Word_Problem.pdf) file.
+The problem statement is available in the [Exercise Fresher Word Problem](https://github.com/Deeksha-602/Longest-Compound-word-25/blob/main/Exercise_Fresher_Word_Problem.pdf)file.
 
 
 # Algorithm
