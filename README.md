@@ -11,7 +11,7 @@ The problem statement is available in the [Exercise Fresher Word Problem](https:
 **[4]Identification of Longest Compound Words: Analyze all compound words found and determine the longest and second-longest ones for better insights.**
 
 # Execution Steps
-**[1] Clone or download the repository.**
+-**[1] Clone or download the repository.**
 **[2] Ensure that your input files (Input_01.txt, Input_02.txt) are placed in the correct directory.**
 **[3] Modify the file paths in Solution.java.**
   String filePath1 = "C:\\TId\\Input_01.txt";
