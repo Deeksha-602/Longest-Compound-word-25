@@ -6,10 +6,10 @@ The problem statement is available in the [Exercise Fresher Word Problem](https:
 
 ## Algorithm  
 
-- **[1] Efficient Trie Construction:** Read words from the file and insert them into a Trie for optimized lookup and prefix matching.  
-- **[2] Prefix and Suffix Validation:** Extract valid prefixes of each word, check for corresponding suffixes, and determine if the word is a compound word.  
-- **[3] Optimized Multi-threading:** Utilize parallel processing to handle multiple input files concurrently, improving efficiency and reducing execution time.  
-- **[4] Identification of Longest Compound Words:** Analyze all compound words found and determine the longest and second-longest ones for better insights.  
+- **Efficient Trie Construction:** Read words from the file and insert them into a Trie for optimized lookup and prefix matching.  
+- **Prefix and Suffix Validation:** Extract valid prefixes of each word, check for corresponding suffixes, and determine if the word is a compound word.  
+- **Optimized Multi-threading:** Utilize parallel processing to handle multiple input files concurrently, improving efficiency and reducing execution time.  
+- **Identification of Longest Compound Words:** Analyze all compound words found and determine the longest and second-longest ones for better insights.  
 
 # Execution Steps
 
