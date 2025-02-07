@@ -1,7 +1,8 @@
-### Compound Word Detection Using Trie (Java Implementation)
+### Word Composition Problem Using Trie (Java Implementation)
 
 # Problem Statement
-This program detects compound words from a given input file. A compound word is formed by concatenating two or more valid words from the file. The input file contains one word per line, sorted in alphabetical order.
+The problem statement is available in the [Exercise Fresher Word Problem](https://github.com/your-username/Longest-Compound-word-25/blob/main/Exercise_Fresher_Word_Problem.pdf) file.
+
 
 # Algorithm
 • Efficient Trie Construction: Read words from the file and insert them into a Trie for optimized lookup and prefix matching.
@@ -33,5 +34,5 @@ Output for File: Input_01.txt
 
 Output for File: Input_02.txt
 
-![Output Screenshot](https://github.com/Deeksha-602/Longest-Compound-word-25/blob/main/Input_01.txt.png)
+![Output Screenshot](https://github.com/Deeksha-602/Longest-Compound-word-25/blob/main/Input_02.txt.png)
 
