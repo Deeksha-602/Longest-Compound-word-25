@@ -32,9 +32,9 @@ The problem statement is available in the [Exercise Fresher Word Problem](https:
 
 # Result
 Output for File: Input_01.txt
-![Output Screenshot](https://github.com/Deeksha-602/Longest-Compound-word-25/blob/main/Input_01.txt.png)
+![Output Screenshot](https://github.com/Deeksha-602/Longest-Compound-word-25/blob/main/output_01.txt.png)
 
 Output for File: Input_02.txt
 
-![Output Screenshot](https://github.com/Deeksha-602/Longest-Compound-word-25/blob/main/Input_02.txt.png)
+![Output Screenshot](https://github.com/Deeksha-602/Longest-Compound-word-25/blob/main/output_02.txt.png)
 
