@@ -29,6 +29,9 @@ This program detects compound words from a given input file. A compound word is 
 
 # Result
 Output for File: Input_01.txt
-![Output Screenshot](images/output.png)
+![Output Screenshot](https://github.com/Deeksha-602/Longest-Compound-word-25/blob/main/Input_01.txt.png)
 
 Output for File: Input_02.txt
+
+![Output Screenshot](https://github.com/Deeksha-602/Longest-Compound-word-25/blob/main/Input_01.txt.png)
+
